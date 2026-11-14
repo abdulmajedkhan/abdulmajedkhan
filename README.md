@@ -38,7 +38,7 @@ Most client work is private. More detail on [khanzlab.com/work](https://khanzlab
 
 ## KhanzLab
 
-[KhanzLab](https://khanzlab.com) is a founder-led software studio. I lead every project and write code myself, and I bring in vetted specialists when a project needs more hands. Rated 5.0 on [Clutch](https://clutch.co/profile/khanzlab) (1 review).
+[KhanzLab](https://khanzlab.com) is a founder-led software studio. I lead every project and write code myself, and I bring in vetted specialists when a project needs more hands. Rated 5.0 on [Clutch](https://clutch.co/profile/khanzlab).
 
 ## Open to
 
