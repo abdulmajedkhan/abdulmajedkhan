@@ -1,53 +1,48 @@
-<div align="center">
-
 <a href="https://khanzlab.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./khanzlab-logo-dark.png">
-    <img src="./khanzlab-logo.png" alt="KhanzLab" width="300">
-  </picture>
+  <img src="./assets/banner.svg" alt="KhanzLab: We build the app, the AI and the smart-device software behind your product." width="100%">
 </a>
 
-### Hi, I'm Abdul Majed Khan 👋
-**Founder of [KhanzLab](https://khanzlab.com)** · Flutter, iOS & Android engineer
+<p align="center">
+  <a href="https://khanzlab.com/contact"><img src="./assets/btn-book.svg" alt="Book a free call" height="44"></a>
+  &nbsp;
+  <a href="https://khanzlab.com/work"><img src="./assets/btn-work.svg" alt="See our work" height="44"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdulmajedkhan/"><img src="./assets/btn-linkedin.svg" alt="Connect on LinkedIn" height="44"></a>
+</p>
 
-I build mobile apps, AI features and smart-device software for startups, growing businesses and agencies worldwide.
+<a href="https://clutch.co/profile/khanzlab">
+  <img src="./assets/proof.svg" alt="5.0 on Clutch (1 review). Apps live on the App Store and Google Play. Founder-led." width="100%">
+</a>
 
-[**Book a free call**](https://khanzlab.com/contact) &nbsp;·&nbsp; [Website](https://khanzlab.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulmajedkhan/) &nbsp;·&nbsp; [Clutch](https://clutch.co/profile/khanzlab) &nbsp;·&nbsp; [Email](mailto:contact@khanzlab.com)
+## Hi, I'm Abdul 👋
 
-</div>
+I'm the founder of [KhanzLab](https://khanzlab.com), a software studio that builds **mobile apps, AI features and smart-device software** for startups, growing businesses and agencies worldwide. I lead every project and write code myself, and I bring in vetted specialists when a project needs more hands.
 
----
+**Stack:** Flutter · Swift · Kotlin · NFC · Bluetooth · IoT · LiveKit · AI integration · Wear OS
 
-## What I work with
+## What I build
 
-**Mobile:** Flutter · Swift (iOS) · Kotlin (Android) · Wear OS
-**Connected devices:** IoT · NFC · Bluetooth · smart-speaker casting · in-car apps
-**AI:** AI feature integration · real-time voice and video with LiveKit
-**Also:** web and desktop tools, bots and automation, project management
+<a href="https://khanzlab.com/services">
+  <img src="./assets/capabilities.svg" alt="Mobile apps, AI features, connected devices, web and automation." width="100%">
+</a>
 
-## Apps I've shipped
+## Apps live on the stores
 
-| App | What it does | Store |
+| App | What it does | Get it |
 |---|---|---|
-| **TLAuth** | Reads the NFC chip in e-passports and checks it for authenticity, built for a car-rental group's staff. Works offline. | [Google Play](https://play.google.com/store/apps/details?id=com.tlapp.tl_app) · [App Store](https://apps.apple.com/ae/app/tlauth/id6776642647) |
+| **TLAuth** | Reads the NFC chip in e-passports and checks the document, even offline. Built for a car-rental group's staff. | [Google Play](https://play.google.com/store/apps/details?id=com.tlapp.tl_app) · [App Store](https://apps.apple.com/ae/app/tlauth/id6776642647) |
 | **TL Inspect** | Vehicle inspection app for the same fleet. | [App Store](https://apps.apple.com/us/app/tl-inspect/id6794571564) |
 | **Bayaan** | Smart-home app that plays the Adhan on Google Nest and Alexa speakers. | [Google Play](https://play.google.com/store/apps/details?id=com.bayaanapp) · [App Store](https://apps.apple.com/pk/app/bayaan-app/id6748584277) |
-| **Butter Skin** | AI skincare coach with skin analysis from photos. | [Google Play](https://play.google.com/store/apps/details?id=com.butter.skin) · [App Store](https://apps.apple.com/app/id6764056992) |
+| **Butter Skin** | AI skincare coach: skin analysis from photos, routines and an assistant. | [Google Play](https://play.google.com/store/apps/details?id=com.butter.skin) · [App Store](https://apps.apple.com/app/id6764056992) |
 
-Most client work is private. More detail on [khanzlab.com/work](https://khanzlab.com/work).
+Most client work is private. More at [khanzlab.com/work](https://khanzlab.com/work).
 
-## KhanzLab
+<br>
 
-[KhanzLab](https://khanzlab.com) is a founder-led software studio. I lead every project and write code myself, and I bring in vetted specialists when a project needs more hands. Rated 5.0 on [Clutch](https://clutch.co/profile/khanzlab).
+<a href="https://khanzlab.com/contact">
+  <img src="./assets/cta.svg" alt="Have a project in mind? Book a free call." width="100%">
+</a>
 
-## Open to
-
-- Mobile apps (Flutter, iOS, Android)
-- AI features and assistants
-- Smart-device, NFC and IoT software
-- Senior engineering help for your team
-- White-label work for agencies
-
-📩 **Have a project in mind?** [Book a free call](https://khanzlab.com/contact) or write to [contact@khanzlab.com](mailto:contact@khanzlab.com).
-
-<sub>Based in Pakistan · working with clients worldwide</sub>
+<p align="center">
+  <sub><a href="mailto:contact@khanzlab.com">contact@khanzlab.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/abdulmajedkhan/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://clutch.co/profile/khanzlab">Clutch</a> &nbsp;·&nbsp; Based in Pakistan, working worldwide</sub>
+</p>
