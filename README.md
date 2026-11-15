@@ -11,7 +11,7 @@
 </p>
 
 <a href="https://clutch.co/profile/khanzlab">
-  <img src="./assets/proof.svg" alt="5.0 on Clutch (1 review). Apps live on the App Store and Google Play. Founder-led." width="100%">
+  <img src="./assets/proof.svg" alt="5.0 on Clutch. Apps live on the App Store and Google Play. Founder-led." width="100%">
 </a>
 
 ## Hi, I'm Abdul 👋
